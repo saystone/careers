@@ -75,8 +75,7 @@
 ###텀블벅을 구성하는 기술
 
 - Ruby on Rails: 플랫폼, API, 그리고 Analytics 서버
-- PHP: 결제 서버 (Slim 프레임워크)
-- Backbone.js: 웹 인터페이스
+- Backbone.js, Ember.js: 웹 인터페이스
 - Amazon Web Service: EC2, S3, RDS, Cloudfront, Elastic Transcoder 
 - Rspec, Cucumber, CodeClimate, CircleCI
 - 필요에 따라 Ruby 또는 Python으로 일부 도구를 만들고 있습니다.
