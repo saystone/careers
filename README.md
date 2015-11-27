@@ -21,7 +21,7 @@
 - CSS3 애니메이션의 작동방식에 대해 이해하고 구사하실 있는 분.
 - 팀 기반 개발 작업에 대한 경험을 가지신 분.
 - 훌륭한 디자인에 대한 열정을 가지신 분.
-- Front-end 의 build tool(gulp, web pack 등)에 대한 경험을 가지신 분.
+- Front-end 의 build tool (gulp, grunt, webpack 등)에 대한 경험을 가지신 분.
 
 ### 백엔드 개발자 기대 사항
 
