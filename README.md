@@ -41,7 +41,7 @@
 - Rspec을 활용해서 모든 코드에 대한 unit testing 을 철저하게 하고 있습니다.
 - Javascript testing Jasmine을 활용하고 있습니다.
 - Amazon Web Service: EC2, S3, RDS, Cloudfront, Elastic Transcoder 
-- Code Quality: Codeclimate을 통해
+- Code Quality: Codeclimate을 통해 duplication, security issues 등을 발견하고 수정합니다.
 - Style: rubocop, sass-lint, jshint를 통해 개별 엔지니어의 코딩 작성 단계에서나 commit단계에서 팀의 코딩 컨벤션을 준수하도록 하고 있습니다.
 - 필요에 따라 Ruby, Python, R로 일부 도구를 만들고 있습니다.
 - 커뮤니케이션은 Slack을 활용합니다.
