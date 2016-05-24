@@ -66,12 +66,11 @@
 
 ###텀블벅을 구성하는 기술
 
-- Rails, Java 등을 기반으로 한 server-side stack 을 만들고 있습니다.
-- 주요 Javascript libraries로는 React.js, Backbone.js을 사용하고 있습니다.
+- Node.js, Rails 등을 활용해서 microservice system 을 만들고 있습니다.
+- 주요 Javascript libraries로는 React.js을 사용하고 있습니다.
 - CSS preprocessor로 SCSS를 사용하며, CSS의 coding convention으로 BEM(Block-Element-Modifier) 방식을 상당 부분 따르고 있습니다.
-- SemaphoreCI 를 활용해서 continuous integration 를 하고 있습니다.
-- Rspec을 활용해서 모든 코드에 대한 unit testing 을 철저하게 하고 있습니다.
-- Javascript testing Jasmine을 활용하고 있습니다.
+- SemaphoreCI 를 활용해서 continuous integration 를 하고, 모든 코드에 대한 unit testing 을 철저하게 하고 있습니다.
+- Javascript testing으로 Jasmine을 활용하고 있습니다.
 - Amazon Web Service: EC2, S3, RDS, Cloudfront, Elastic Transcoder 
 - Code Quality: Codeclimate을 통해 duplication, security issues 등을 발견하고 수정합니다.
 - Style: rubocop, sass-lint, jshint를 통해 개별 엔지니어의 코딩 작성 단계에서나 commit단계에서 팀의 코딩 컨벤션을 준수하도록 하고 있습니다.
@@ -96,7 +95,7 @@
 
 #####사이드 프로젝트를 적극적으로 합니다
 
-당장 처리해야 하는 개발 업무가 아니라도 장기적인 프레임워크나 툴 개발하는 것을 좋아합니다. 텀블벅에 현재 쓰이는 사용되는 CSS Framework 인 Jitterbug나 CSSDOC 역시 사이드 프로젝트에서 탄생했습니다. 한 엔지니어는 주말 사이 재미로 텀블벅 프로젝트 데이터를 가져오는 REST API를 만들었는데, 지금은 그 결과물이 네이버 서비스와의 연동에 쓰이고 있습니다. 
+당장 처리해야 하는 개발 업무가 아니라도 장기적인 프레임워크나 툴 개발하는 것을 좋아합니다. 텀블벅에 현재 쓰이는 사용되는 CSS Framework 인 [Jitterbug](https://github.com/tumblbug/jitterbug)나 텀블벅 커스텀 ESLint 플러그인  [eslint-plugin-tumblbug](https://github.com/tumblbug/eslint-plugin-tumblbug) 역시 사이드 프로젝트에서 탄생했습니다. 한 엔지니어는 주말 사이 재미로 텀블벅 프로젝트 데이터를 가져오는 REST API를 만들었는데, 지금은 그 결과물이 네이버 서비스와의 연동에 쓰이고 있습니다. 
 
 ### 텀블벅 엔지니어링 SNS
 
