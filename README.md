@@ -6,13 +6,6 @@
 
 텀블벅은 매년 3-4배씩 성장하며 꾸준히 그 가능성을 입증해왔습니다. 이제는 출판, 웹툰, 음악, 게임 등 분야를 막론하고, 국내외의 수많은 크리에이터들이 텀블벅을 통해 자신들의 프로젝트를 현실로 만들고 있습니다. 최근에는 이러한 성장성과 가능성을 인정받아, Strong Ventures, 카카오톡에 투자했던 실리콘밸리의 DCM, 한국의 네이버로부터 투자를 유치하기도 하였습니다.
 
-### 텀블벅 엔지니어링 SNS
-
-  - [페이스북](https://facebook.com/tumblbug.engineering)
-  - [트위터](https://twitter.com/tumblbug_eng)
-  - [국문 Tech 블로그](https://medium.com/tumblbug-engineering-kr)
-  - [영문 Tech 블로그](https://medium.com/tumblbug-engineering)
-
 ### 채용 분야
 
 다음 직무에 함께할 분들을 찾고 있습니다!
@@ -75,6 +68,13 @@
 
 한 달에 한 번 스튜디오를 빌려 저희끼리 해커톤을 합니다. 텀블벅 코드 뿐 아니라 평소에 하고 싶었던 프로젝트를 같이 만들면서 놉니다. 물론 식사, 간식, 맥주, 그리고 레드불은 회사에서 무제한 제공합니다.
 
+### 텀블벅 엔지니어링 SNS
+
+  - [페이스북](https://facebook.com/tumblbug.engineering)
+  - [트위터](https://twitter.com/tumblbug_eng)
+  - [국문 Tech 블로그](https://medium.com/tumblbug-engineering-kr)
+  - [영문 Tech 블로그](https://medium.com/tumblbug-engineering)
+
 ### 근무환경 및 복지혜택
 
 #####근무지         
@@ -85,7 +85,7 @@
 
 #####급여 및 보상     
 - 연봉제 + 3개월 프로젝트 트라이아웃
-- 연봉: 3,600만원 - 9,600만원
+- 연봉: 3,600만원 - 7,000만원
 - 4대 보험 / 퇴직금 / 인센티브
 - 트라이아웃 기간에도 급여 및 기본 대우는 동일합니다.
 
