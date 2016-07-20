@@ -57,6 +57,8 @@ Software development 및 engineering practices에 대한 경력이 있는 분으
 - Amazon Web Service (또는 비슷한 클라우드 컴퓨팅 플랫폼)의 다양한 서비스를 사용해서 개발한 경험이 있으신 분
 - 대용량 분산 시스템 설계 및 데이터 처리를 원활하게 할 수 있는 분
 
+### [Software Engineer 지원하기](https://airtable.com/shrxEauabqCkj62xq)
+
 ### Junior Software Engineer
 
 Software development 및 engineering practices에 제한된 노출을 가진 분으로 팀 내에서 멘토링과 서포트를 통해 소프트웨어 엔지니어로서의 성장을 하고 기여할 수 있는 신입 엔지니어입니다.
@@ -65,6 +67,8 @@ Software development 및 engineering practices에 제한된 노출을 가진 분
 - Software engineering의 다양한 분야에 대해서 최대한 많이 학습하시는 분
 - 다른 엔지니어들의 도움을 받아 올바르고 깔끔한 코드를 작성하고 기술 부채를 최소화하는 방법을 익히시는 분
 - 텀블벅 codebase에 쓰이는 기존 툴들, 언어, 프레임워크들에 대해 빠르게 배우시고자 하는 분
+ 
+### [Junior Software Engineer 지원하기](https://airtable.com/shrxEauabqCkj62xq)
 
 ----
 
@@ -149,14 +153,6 @@ Software development 및 engineering practices에 제한된 노출을 가진 분
 
 ----
 
-### 지원 방법
-
-상시 채용 중이므로 언제든지 지원하셔도 좋습니다. 지원은 [접수 페이지](https://airtable.com/shrxEauabqCkj62xq)를 통해서 받고 있습니다. 아래 요청 자료를 참고해주세요.
-
-* 이력서 / 경력 기술서 (PDF 포맷): 팀 단위 프로젝트라면 구체적으로 어떤 파트를 직접 담당하셨는지에 대한 기술이 반드시 필요합니다
-* 내부에서만 검토하오니, 희망 연봉을 반드시 기재해주세요
-* 지원자가 직접 쓰신 코드를 반드시 공유하셔야 하니다. 코드가 없는 지원서는 받지 않겠습니다. 코드를 공유하실 때는 파일을 압축해서 보내지 마시고 Github repository를 공유해주시기 바랍니다.
-
 ### 채용 절차 
 
 - 0단계: 서류 검토
@@ -180,3 +176,16 @@ Software development 및 engineering practices에 제한된 노출을 가진 분
 
 - 최종오퍼
   - Reference Check를 거치고 오퍼를 수락하시면 텀블벅에 공식적으로 합류하시게 됩니다
+
+----
+
+### 지원 방법
+
+상시 채용 중이므로 언제든지 지원하셔도 좋습니다. 아래 요청 자료를 참고해주세요.
+
+* 이력서 / 경력 기술서 (PDF 포맷): 팀 단위 프로젝트라면 구체적으로 어떤 파트를 직접 담당하셨는지에 대한 기술이 반드시 필요합니다
+* 내부에서만 검토하오니, 희망 연봉을 반드시 기재해주세요
+* 지원자가 직접 쓰신 코드를 반드시 공유하셔야 하니다. 코드가 없는 지원서는 받지 않겠습니다. 코드를 공유하실 때는 파일을 압축해서 보내지 마시고 Github repository를 공유해주시기 바랍니다.
+
+
+### [텀블벅 엔지니어 지원하기](https://airtable.com/shrxEauabqCkj62xq)
