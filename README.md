@@ -69,8 +69,6 @@ Software development 및 engineering practices에 제한된 노출을 가진 분
 - Software engineering의 다양한 분야에 대해서 최대한 많이 학습하시는 분
 - 다른 엔지니어들의 도움을 받아 올바르고 깔끔한 코드를 작성하고 기술 부채를 최소화하는 방법을 익히시는 분
 - 텀블벅 codebase에 쓰이는 기존 툴들, 언어, 프레임워크들에 대해 빠르게 배우시고자 하는 분
- 
-### [Junior Software Engineer 지원하기](https://airtable.com/shrxEauabqCkj62xq)
 
 ----
 
