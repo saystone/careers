@@ -94,12 +94,11 @@ Software development 및 engineering practices에 대한 경력이 있는 분으
 
 당장 처리해야 하는 개발 업무가 아니라도 장기적인 프레임워크나 툴 개발하는 것을 좋아합니다. 텀블벅에 현재 쓰이는 사용되는 CSS Framework 인 [Jitterbug](https://github.com/tumblbug/jitterbug)나 텀블벅 커스텀 ESLint 플러그인  [eslint-plugin-tumblbug](https://github.com/tumblbug/eslint-plugin-tumblbug) 역시 사이드 프로젝트에서 탄생했습니다. 한 엔지니어는 주말 사이 재미로 텀블벅 프로젝트 데이터를 가져오는 REST API를 만들었는데, 지금은 그 결과물이 네이버 서비스와의 연동에 쓰이고 있습니다. 
 
-### 텀블벅 엔지니어링 SNS
+### 텀블벅을 만듭니다
 
-  - [페이스북](https://facebook.com/tumblbug.engineering)
-  - [트위터](https://twitter.com/tumblbug_eng)
-  - [국문 Tech 블로그](https://medium.com/tumblbug-engineering-kr)
-  - [영문 Tech 블로그](https://medium.com/tumblbug-engineering)
+  - [페이스북](https://facebook.com/building.tumblbug)
+  - [트위터](https://twitter.com/tumblbug_team)
+  - [블로그](https://medium.com/building-tumblbug)
 
 ----
 
