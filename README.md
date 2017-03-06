@@ -112,9 +112,6 @@ Software development 및 engineering practices에 대한 경력이 있는 분으
 
 ##### 급여 및 보상     
 - 연봉제 + 3개월 프로젝트 트라이아웃
-- 연봉
-  - Software Engineer: 3,600만원 - 7,000만원
-  - Junior Software Engineer: 3,000만원
 - 4대 보험 / 퇴직금 / 인센티브
 - 트라이아웃 기간에도 급여 및 기본 대우는 동일합니다.
 
